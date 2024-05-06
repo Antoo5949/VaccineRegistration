@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850526832088",
+    "project_id": "vaccine-registration-bca1b",
+    "storage_bucket": "vaccine-registration-bca1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850526832088:android:1a24ddfa3f44dd85045ead",
+        "android_client_info": {
+          "package_name": "com.example.vaccineregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850526832088-5k78aqplnoogpcvv29jab36bvt15p7tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZT1tJ0JOmo7a_e3s-tTLel5fGbWrk4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850526832088-5k78aqplnoogpcvv29jab36bvt15p7tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
